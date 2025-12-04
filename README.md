@@ -1,9 +1,9 @@
 # ml-project
 
-Team member 1 - KORAGATLA SAI RITHVIK 
-Team member 2 - MANUGURI SAI SWETHA 
-Team member 3 - PASUMARTY SAI SAHITH 
-Team member 4 - JADDU VENKATA KRANTI KUMAR
+Team member 1 - KORAGATLA SAI RITHVIK \n
+Team member 2 - MANUGURI SAI SWETHA \n
+Team member 3 - PASUMARTY SAI SAHITH \n
+Team member 4 - JADDU VENKATA KRANTI KUMAR \n
 
 # 🎵 Music Recommender System
 
